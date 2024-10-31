@@ -10,5 +10,3 @@
 
 
 ### 1. Introdução [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/inacioalves/curso-haskell/HEAD?labpath=%2Faulas%2F01-Introducao-Haskell.ipynb) 
-
-### 2. Tipos de dados, assinaturas e polimorfismo [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/inacioalves/curso-haskell/HEAD?labpath=%2Faulas%2F02-Functions-Data-Types-and-Signatures.ipynb) 
